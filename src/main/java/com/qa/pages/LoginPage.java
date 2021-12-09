@@ -6,4 +6,8 @@ public class LoginPage {
 	
 		System.out.println("loginpage");
 	}
+	
+	public void search(){
+		
+	}
 }
