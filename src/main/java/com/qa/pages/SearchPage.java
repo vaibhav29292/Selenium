@@ -9,3 +9,7 @@ public class SearchPage {
 	public void newPage(){
 	System.out.println("searchpage");	
 }
+	public void LoginPage(){
+		System.out.println("new message");
+	}
+}
